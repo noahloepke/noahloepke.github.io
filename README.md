@@ -1,6 +1,6 @@
-## Welcome to my website!
+## About Me
 
-You can use the [editor on GitHub](https://github.com/noahloepke/noahloepke.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Noah! One of my biggest passions is nature, which is why I spend most of my time outdoors, even when coding! My favorite outdoor hobbies include hiking, tennis, archery, and skating. While relaxing inside however, I enjoy reading books, playing video games, and tinkering with various programs on my computer. Technology has always fascinated me and the rapidly changing industry keeps me on my toes constantly.     
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
