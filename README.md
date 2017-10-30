@@ -7,8 +7,7 @@ Hi, my name is Noah! One of my biggest passions is nature, which is why I spend 
 A list of jobs that I have held that have increaded my skillset:
 
 
-**Lindner Tennis Center, Cincinnati, OH — Sales Associate**
-
+**Lindner Tennis Center, Cincinnati, OH — Sales Associate** <br>
 _May 2017 - August 2017_
 - Managed court reservations
 - Took phone calls / in person inquiries
@@ -16,8 +15,7 @@ _May 2017 - August 2017_
 - Ran concessions
 
 
-**House Vets for House Pets, Cincinnati, OH — Boarder**
-
+**House Vets for House Pets, Cincinnati, OH — Boarder** <br>
 _May 2016 - February 2017_
 - Cleaned kennels, fed, and exercised the pets
 - Shadowing experience with head veterinarian
@@ -26,20 +24,17 @@ _May 2016 - February 2017_
 
 ### Education
 
-**The Ohio State University, Columbus, OH**
-
-_August 2017- present (Expected: MAY 2021)_
- 
-Honors: Scholars Student, GPA: 4.0/4.0, 
-Relevant Coursework: Programming Java
-Extracurriculars: Archery Club, Media Marketing and Communication 
+**The Ohio State University, Columbus, OH** <br>
+_August 2017- present (Expected: MAY 2021)_ <br>
+Honors: Scholars Student, GPA: 4.0/4.0 <br>
+Relevant Coursework: Programming Java <br>
+Extracurriculars: Archery Club, Media Marketing and Communication <br>
 
 
-**Anderson High School, Cincinnati, OH **
-
-_August 2013 - May 2017_
-Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes 
-Extracurriculars: INSERT HERE  
+**Anderson High School, Cincinnati, OH** <br>
+_August 2013 - May 2017_ <br>
+Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes <br> 
+Extracurriculars: INSERT HERE <br>
 
 
 
