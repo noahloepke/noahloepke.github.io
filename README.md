@@ -2,26 +2,18 @@
 
 Hi, my name is Noah! One of my biggest passions is nature, which is why I spend most of my time outdoors, even when coding! My favorite outdoor hobbies include hiking, tennis, archery, and skating. While relaxing inside however, I enjoy reading books, playing video games, and tinkering with various programs on my computer. Technology has always fascinated me and the rapidly changing industry keeps me on my toes constantly.     
 
-### Markdown
+### Work Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**Lindner Tennis Center, Cincinnati, OH — Sales Associate**
+_MAY 2017 - AUGUST 2017_
+- Managed court reservations
+- Took phone calls / in person inquiries
+- Swept, lined, and watered courts	
+- Ran concessions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
