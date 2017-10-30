@@ -27,17 +27,15 @@ _May 2016 - February 2017_ <br>
 
 **The Ohio State University, Columbus, OH** <br>
 _August 2017- present (Expected: MAY 2021)_ <br>
-<br>
-Honors: Scholars Student, GPA: 4.0/4.0 <br>
-Relevant Coursework: Programming Java <br>
-Extracurriculars: Archery Club, Media Marketing and Communication Scholars Community <br>
+- Honors: Scholars Student, GPA: 4.0/4.0 <br>
+- Relevant Coursework: Programming Java <br>
+- Extracurriculars: Archery Club, Media Marketing and Communication Scholars Community <br>
 
 
 **Anderson High School, Cincinnati, OH** <br>
 _August 2013 - May 2017_ <br>
-<br>
-Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes <br> 
-Extracurriculars: INSERT HERE <br>
+- Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes <br> 
+- Extracurriculars: INSERT HERE <br>
 
 
 
@@ -51,4 +49,5 @@ Extracurriculars: INSERT HERE <br>
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- LinkedIn, link: 'https://www.linkedin.com/in/noah-loepke-58456714a/'
+- Facebook, link: 'https://www.facebook.com/noahloepke/'
