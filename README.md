@@ -49,5 +49,5 @@ _August 2013 - May 2017_ <br>
 
 ### Support or Contact
 
-- LinkedIn, link: 'https://www.linkedin.com/in/noah-loepke-58456714a/'
-- Facebook, link: 'https://www.facebook.com/noahloepke/'
+- <a href="https://www.linkedin.com/in/noah-loepke-58456714a/">LinkedIn</a>
+- <a href="http://www.facebook.com/noahloepke">Facebook</a>
