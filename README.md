@@ -27,13 +27,16 @@ _MAY 2016 - FEBRUARY 2017_
 ### Education
 
 **The Ohio State University, Columbus, OH**
+
 _AUGUST 2017- PRESENT (Expected: MAY 2021)_
+ 
 Honors: Scholars Student, GPA: 4.0/4.0, 
 Relevant Coursework: Programming Java
 Extracurriculars: Archery Club, Media Marketing and Communication 
 
 
 **Anderson High School, Cincinnati, OH **
+
 _AUGUST 2013 - MAY 2017_
 Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes 
 Extracurriculars: INSERT HERE  
