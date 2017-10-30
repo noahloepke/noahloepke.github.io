@@ -4,15 +4,23 @@ Hi, my name is Noah! One of my biggest passions is nature, which is why I spend 
 
 ### Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A list of jobs that I have held that have increaded my skillset:
 
 
 **Lindner Tennis Center, Cincinnati, OH — Sales Associate**
+
 _MAY 2017 - AUGUST 2017_
 - Managed court reservations
 - Took phone calls / in person inquiries
 - Swept, lined, and watered courts	
 - Ran concessions
+
+
+**House Vets for House Pets, Cincinnati, OH — Boarder**
+
+_MAY 2016 - FEBRUARY 2017_
+- Cleaned kennels, fed, and exercised the pets
+- Shadowing experience with head veterinarian
 
 
 
