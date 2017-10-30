@@ -24,11 +24,29 @@ _MAY 2016 - FEBRUARY 2017_
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education
 
-### Jekyll Themes
+**The Ohio State University, Columbus, OH**
+_AUGUST 2017- PRESENT (Expected: MAY 2021)_
+Honors: Scholars Student, GPA: 4.0/4.0, 
+Relevant Coursework: Programming Java
+Extracurriculars: Archery Club, Media Marketing and Communication 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noahloepke/noahloepke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+**Anderson High School, Cincinnati, OH **
+_AUGUST 2013 - MAY 2017_
+Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes 
+Extracurriculars: INSERT HERE  
+
+
+
+### Skills
+**Languages:** Java
+**Tools:** Eclipse, Adobe Photoshop, Excel 
+**Operating Systems:** Mac OS, Windows
+**Foreign Language:** Fluent in German and English
+
+
 
 ### Support or Contact
 
