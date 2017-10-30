@@ -6,7 +6,7 @@ Hi, my name is Noah! One of my biggest passions is nature, which is why I spend 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 **Lindner Tennis Center, Cincinnati, OH — Sales Associate**
 _MAY 2017 - AUGUST 2017_
 - Managed court reservations
@@ -14,7 +14,7 @@ _MAY 2017 - AUGUST 2017_
 - Swept, lined, and watered courts	
 - Ran concessions
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
