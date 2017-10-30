@@ -9,7 +9,7 @@ A list of jobs that I have held that have increaded my skillset:
 
 **Lindner Tennis Center, Cincinnati, OH — Sales Associate**
 
-_MAY 2017 - AUGUST 2017_
+_May 2017 - August 2017_
 - Managed court reservations
 - Took phone calls / in person inquiries
 - Swept, lined, and watered courts	
@@ -18,7 +18,7 @@ _MAY 2017 - AUGUST 2017_
 
 **House Vets for House Pets, Cincinnati, OH — Boarder**
 
-_MAY 2016 - FEBRUARY 2017_
+_May 2016 - February 2017_
 - Cleaned kennels, fed, and exercised the pets
 - Shadowing experience with head veterinarian
 
@@ -28,7 +28,7 @@ _MAY 2016 - FEBRUARY 2017_
 
 **The Ohio State University, Columbus, OH**
 
-_AUGUST 2017- PRESENT (Expected: MAY 2021)_
+_August 2017- present (Expected: MAY 2021)_
  
 Honors: Scholars Student, GPA: 4.0/4.0, 
 Relevant Coursework: Programming Java
@@ -37,7 +37,7 @@ Extracurriculars: Archery Club, Media Marketing and Communication
 
 **Anderson High School, Cincinnati, OH **
 
-_AUGUST 2013 - MAY 2017_
+_August 2013 - May 2017_
 Honors: GPA: 4.4/4.0, 32 ACT,  9 AP Classes 
 Extracurriculars: INSERT HERE  
 
